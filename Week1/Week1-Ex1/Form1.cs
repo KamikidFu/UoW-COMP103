@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +12,7 @@ namespace Week1_Ex1
 {
     public partial class Form1 : Form
     {
+    //Author: Fu, Yunhao
         public Form1()
         {
             InitializeComponent();
