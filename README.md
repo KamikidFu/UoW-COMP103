@@ -1,6 +1,6 @@
 # UoW-COMP103/COMPX101
 
-Welcome to my repo of COMP103 (OR `COMPX101` as new paper code but not sure if this repo covered all). This paper is taught at [University of Waikato](https://www.waikato.ac.nz/). This repo recorded all my work for this paper.
+Welcome to my repo of COMP103 - Introduction to Computer Science 1 (OR `COMPX101` as new paper code but not sure if this repo covered all). This paper is taught at [University of Waikato](https://www.waikato.ac.nz/). This repo recorded all my work for this paper.
 
 
 
